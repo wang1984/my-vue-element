@@ -59,4 +59,7 @@
     .height(50px);
     border:1px solid @color;
    }   
+
+
+   
 </style>
